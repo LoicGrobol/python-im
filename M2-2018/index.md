@@ -58,31 +58,30 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 Vous aurez besoin d'un interpréteur Python et d'un éditeur de texte.
 
 ## Python & co.
-Vous travaillerons avec Python3.
+Vous travaillerons avec Python 3.
 
 Les supports de cours sont sous forme de diapos html et surtout de notebooks. Pour utiliser les notebooks (anciennement ipython notebook maintenant jupyter notebook) vous aurez besoin d'installer [Jupyter](http://jupyter.org/) sur votre machine de travail.
 Je vous incite également à utiliser le shell interactif `ipython` qui est une version améliorée du shell `python` (ipython est inclus dans jupyter).
-
 
 Deux options pour l'installation :
 
 * installer uniquement les outils nécessaires avec pip :
 	1. installer Python3
-	```
+	```bash
 	sudo apt-get install python3
 	```
 
 	2. installer pip
-	```
+	```bash
 	sudo apt-get install python3-pip
 	```
 
 	3. installer jupyter
-	```
-	sudo pip3 install jupyter
+	```bash
+	python3 -m pip install --user jupyter
 	```
 
-* installer [anaconda](https://www.continuum.io/downloads). La solution de facilité qui comprend python3, pip, jupyter et une foule de modules dont on ne se serivra pas.
+* Installer [anaconda](https://www.continuum.io/downloads). La solution de facilité qui comprend python3, pip, jupyter et une foule de modules dont on ne se serivra pas.
 
 
 ## Éditeur de texte
@@ -118,7 +117,7 @@ Je vous conseille vivement d'utiliser un (ou plus) des sites et tutoriels ci-des
 
 ## Licence
 
- Copyright © 2018 Clément Plancq [\<clement.plancq@ens.fr\>](clement.plancq@ens.fr )
+ Copyright © 2018 Loïc Grobol [\<loic.grobol@gmail.com\>](loic.grobol@gmail.com)
 
  Sauf indication contraire, les fichiers présents dans ce dépôt sont distribués selon les termes de la licence [MIT](LICENSE)
 
