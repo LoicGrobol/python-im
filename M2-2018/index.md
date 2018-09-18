@@ -5,8 +5,8 @@ redirect_from: "/"
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LoicGrobol/python-im/master)
 
 ## Pratique
-  - Loïc Grobol <loic.grobol@gmail.com>
-  - Yoann Dupont <yoa.dupont@gmail.com>
+  - Loïc Grobol \<<loic.grobol@gmail.com>\>
+  - Yoann Dupont \<<yoa.dupont@gmail.com>\>
   - Le mercredi de 9h à 12h en salle 304 (Inalco, 2 rue de Lille, Paris)
   - Cette page : <loicgrobol.github.io/python-im/M2-2018>
   -
