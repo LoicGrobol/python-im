@@ -1,5 +1,6 @@
 ---
 title: Python — M2 Ingénierie Multilingue 2018
+redirect_from: "/"
 ---
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LoicGrobol/python-im/master)
 

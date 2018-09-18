@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 
 title: Python — M2 ingénierie linguistique
 description: Contenus pour le cours « Langages de script » du M2 ingénierie linguistique.
+
+plugins:
+    - jekyll-redirect-from
