@@ -2,6 +2,12 @@
 title: Python — M2 Ingénierie Multilingue
 ---
 
+## Pratique
+  - Loïc Grobol <loic.grobol@gmail.com>
+  - Yoann Dupont <yoa.dupont@gmail.com>
+  - Le mercredi de 9h à 12h en salle 304 (Inalco, 2 rue de Lille, Paris)
+  - Cette page : <loicgrobol.github.io/python-im/M2-2018>
+
 ## Objectifs
 
 Le cours a pour objectif de vous rendre autonome en programmation Python : apprendre les bases du langage, utiliser des modules, comprendre les messages d’erreur, trouver et comprendre la documentation.
@@ -12,7 +18,7 @@ L’accent sera mis sur le traitement de données textuelles et les problèmes l
 
 Tous les supports sont sur [github](https://github.com/clement-plancq/python-im).
 
-### Séance 1 : Passage en revue des bases en Python
+### 2018-09-19 : Passage en revue des bases en Python
 
   - [Slides](https://mybinder.org/v2/gh/clement-plancq/python-im/master?filepath=python-1.ipynb)
   - [Notebook : pierre-feuilles-ciseaux](chifoumi.ipynb) :
@@ -22,28 +28,28 @@ Tous les supports sont sur [github](https://github.com/clement-plancq/python-im)
     ```
   - Exos : Chifoumi, Devinette, Power of Thor - Episode 1
 
-### 27 septembre 2017 : Précisions, fichiers et chaînes
+### 2018-09-26 : Précisions, fichiers et chaînes
 
   * [slides](http://plancq.clement.free.fr/files/python-2.html)
   * Notebook : [dictionnaire-rimes](https://raw.githubusercontent.com/clement-plancq/python-im/master/dico-rimes.ipynb)
   * Exos : dictionnaire de rimes, [temperatures](https://www.codingame.com/training/easy/temperatures)
 
-### 4 octobre 2017 : Structures de données (salle 304)
+### 2018-10-03 : Structures de données
 
   * [slides](http://plancq.clement.free.fr/files/python-3.html)
   * Notebook : [vocabulaire-commun](https://raw.githubusercontent.com/clement-plancq/python-im/master/voc-commun.ipynb)
   * Exos : dictionnaire de rimes (à terminer), [MIME type](https://www.codingame.com/training/easy/mime-type)
 
-### 11 octobre 2017 (salle 304)
-### 18 octobre 2017 (salle des plaques)
-### 25 octobre 2017 (salle des plaques)
-### 8 novembre 2017 (salle 304)
-### 15 novembre 2017 (salle des plaques)
-### 22 novembre 2017 (salle des plaques)
-### 29 novembre 2017 (salle 304)
-### 6 décembre 2017 (salle des plaques)
-### 13 décembre 2017 (salle des plaques)
-### 20 décembre 2017 (salle 304)
+### 2018-10-10
+### 2018-10-17
+### 2018-10-24
+### 2018-11-07
+### 2018-11-14
+### 2018-11-21
+### 2018-11-28
+### 2018-12-05
+### 2018-12-12
+### 2018-12-19
 
 # Outils
 
