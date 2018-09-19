@@ -28,7 +28,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
     ```bash
     jupyter notebook chifoumi.ipynb
     ```
-  - Exos : Chifoumi, Devinette, Power of Thor - Episode 1
+  - Exos : Chifoumi, Devinette, [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)
 
 ### 2018-09-26 : Précisions, fichiers et chaînes
 
