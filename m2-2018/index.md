@@ -23,7 +23,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-09-19 : Passage en revue des bases en Python
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-1.ipynb)
-  - [Notebook : pierre-feuilles-ciseaux](chifoumi.ipynb) :
+  - [Notebook : pierre-feuilles-ciseaux](../chifoumi.ipynb) :
     Télécharger le fichier .ipynb et dans le même dossier taper la commande
     ```bash
     jupyter notebook chifoumi.ipynb
@@ -33,13 +33,13 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-09-26 : Précisions, fichiers et chaînes
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-2.ipynb)
-  - [Notebook dictionnaire-rimes](dico-rimes.ipynb)
+  - [Notebook dictionnaire-rimes](../dico-rimes.ipynb)
   - Exos : dictionnaire de rimes, [temperatures](https://www.codingame.com/training/easy/temperatures)
 
 ### 2018-10-03 : Structures de données
 
-  - [slides](python-3.html)
-  - [Notebook vocabulaire-commun](voc-commun.ipynb)
+  - [slides](../python-3.html)
+  - [Notebook vocabulaire-commun](../voc-commun.ipynb)
   - Exos : dictionnaire de rimes (à terminer), [MIME type](https://www.codingame.com/training/easy/mime-type)
 
 ### 2018-10-10
