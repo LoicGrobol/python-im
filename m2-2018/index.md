@@ -9,7 +9,6 @@ redirect_from: "/"
   - Yoann Dupont [\<yoa.dupont@gmail.com\>](mailto:yoa.dupont@gmail.com)
   - Le mercredi de 9h à 12h en salle 304 (Inalco, 2 rue de Lille, Paris)
   - Cette page : <loicgrobol.github.io/python-im/M2-2018>
-  -
 
 ## Objectifs
 
