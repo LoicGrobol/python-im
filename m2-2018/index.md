@@ -34,13 +34,13 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-2.ipynb)
   - [Notebook dictionnaire-rimes](https://raw.githubusercontent.com/LoicGrobol/python-im/master/dico-rimes.ipynb)
-  - Exos : dictionnaire de rimes, [temperatures](https://www.codingame.com/training/easy/temperatures)
+  - Exos : [temperatures](https://www.codingame.com/training/easy/temperatures)
 
 ### 2018-10-03 : Structures de données
 
-  - [slides](../python-3.html)
+  - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-3.ipynb)
   - [Notebook vocabulaire-commun](https://raw.githubusercontent.com/LoicGrobol/python-im/master/voc-commun.ipynb)
-  - Exos : dictionnaire de rimes (à terminer), [MIME type](https://www.codingame.com/training/easy/mime-type)
+  - Exos : vocabulaire commun (à terminer), [chunks et PoS](https://loicgrobol.github.io/python-im/sem_Ef9POe.conll) (voir la fin du slide pour la consigne), [MIME type](https://www.codingame.com/training/easy/mime-type)
 
 ### 2018-10-10
 ### 2018-10-17
