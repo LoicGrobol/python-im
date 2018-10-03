@@ -23,7 +23,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-09-19 : Passage en revue des bases en Python
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-1.ipynb)
-  - [Notebook : pierre-feuilles-ciseaux](https://raw.githubusercontent.com/LoicGrobol/python-im/master/chifoumi.ipynb) :
+  - [Notebook : pierre-feuilles-ciseaux](../chifoumi.ipynb) :
     Télécharger le fichier .ipynb et dans le même dossier taper la commande
     ```bash
     jupyter notebook chifoumi.ipynb
@@ -33,13 +33,13 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-09-26 : Précisions, fichiers et chaînes
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-2.ipynb)
-  - [Notebook dictionnaire-rimes](https://raw.githubusercontent.com/LoicGrobol/python-im/master/dico-rimes.ipynb)
+  - [Notebook dictionnaire-rimes]../dico-rimes.ipynb)
   - Exos : [temperatures](https://www.codingame.com/training/easy/temperatures)
 
 ### 2018-10-03 : Structures de données
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-3.ipynb)
-  - [Notebook vocabulaire-commun](https://raw.githubusercontent.com/LoicGrobol/python-im/master/voc-commun.ipynb) : [les petits bourgeois](../balzac_petits-bourgeois.txt), [le ventre de Paris](../zola_ventre-de-paris.txt) 
+  - [Notebook vocabulaire-commun](../voc-commun.ipynb) : [les petits bourgeois](../balzac_petits-bourgeois.txt), [le ventre de Paris](../zola_ventre-de-paris.txt)
   - Exos : vocabulaire commun (à terminer), [chunks et PoS](../sem_Ef9POe.conll) (voir la fin du slide pour la consigne), [MIME type](https://www.codingame.com/training/easy/mime-type)
 
 ### 2018-10-10
