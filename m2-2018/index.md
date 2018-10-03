@@ -33,14 +33,19 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-09-26 : Précisions, fichiers et chaînes
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-2.ipynb)
-  - [Notebook dictionnaire-rimes]../dico-rimes.ipynb)
+  - [Notebook dictionnaire-rimes](../dico-rimes.ipynb)
   - Exos : [temperatures](https://www.codingame.com/training/easy/temperatures)
 
 ### 2018-10-03 : Structures de données
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-3.ipynb)
   - [Notebook vocabulaire-commun](../voc-commun.ipynb) : [les petits bourgeois](../balzac_petits-bourgeois.txt), [le ventre de Paris](../zola_ventre-de-paris.txt)
-  - Exos : vocabulaire commun (à terminer), [chunks et PoS](../sem_Ef9POe.conll) (voir la fin du slide pour la consigne), [MIME type](https://www.codingame.com/training/easy/mime-type)
+  - **Exos**
+    - vocabulaire commun (à terminer),
+    - À partir du fichier tsv [sem_Ef9POe.conll](../sem_Ef9POe.conll)
+        1. pour chaque POS listez les types classés par ordre d'occurrence décroissante,
+        2. pour chaque type de chunk indiquez les longueurs min et max (en nb de mots).
+    - [MIME type](https://www.codingame.com/training/easy/mime-type)
 
 ### 2018-10-10
 ### 2018-10-17
