@@ -39,8 +39,8 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-10-03 : Structures de données
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-3.ipynb)
-  - [Notebook vocabulaire-commun](https://raw.githubusercontent.com/LoicGrobol/python-im/master/voc-commun.ipynb)
-  - Exos : vocabulaire commun (à terminer), [chunks et PoS](https://loicgrobol.github.io/python-im/sem_Ef9POe.conll) (voir la fin du slide pour la consigne), [MIME type](https://www.codingame.com/training/easy/mime-type)
+  - [Notebook vocabulaire-commun](https://raw.githubusercontent.com/LoicGrobol/python-im/master/voc-commun.ipynb) : [les petits bourgeois](../balzac_petits-bourgeois.txt), [le ventre de Paris](../zola_ventre-de-paris.txt) 
+  - Exos : vocabulaire commun (à terminer), [chunks et PoS](../sem_Ef9POe.conll) (voir la fin du slide pour la consigne), [MIME type](https://www.codingame.com/training/easy/mime-type)
 
 ### 2018-10-10
 ### 2018-10-17
