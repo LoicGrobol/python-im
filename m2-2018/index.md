@@ -7,7 +7,7 @@ redirect_from: "/"
 ## Pratique
   - Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com)
   - Yoann Dupont [\<yoa.dupont@gmail.com\>](mailto:yoa.dupont@gmail.com)
-  - Le mercredi de 9h à 12h en salle 304 (Inalco, 2 rue de Lille, Paris)
+  - Le mercredi de 9h à 12h en salle 304 (Inalco, 2 rue de Lille, Paris) sauf indication contraire
   - Cette page : <https://loicgrobol.github.io/python-im/m2-2018>
 
 ## Objectifs
@@ -47,16 +47,27 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
         2. pour chaque type de chunk indiquez les longueurs min et max (en nb de mots).
     - [MIME type](https://www.codingame.com/training/easy/mime-type)
 
-### 2018-10-10
-### 2018-10-17
-### 2018-10-24
-### 2018-11-07
+
+### 2018-10-10 (salle Les Salons)
+
+  - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-4.ipynb)
+  - [Notebook multipos](../multipos.ipynb)
+  - **Exos**
+    - multipos (à terminer),
+    - Le suffixe `-able` (ou `-ible` ou `-uble`) est utilisé pour former des adjectifs à partir des verbes. Vous travaillerez avec les données de [lexique3.81](http://lexique.org/telLexique.php).
+        1. Pour chaque verbe du premier groupe (utilisez le lemme) vous vérifierez s'il existe un adjectif en -able. Vous donnerez les décomptes en résultat (combien de verbes avec adjectif -able, combien sans)
+        2. Pour chaque adjectif en -able vous vérifierez s'il existe un dérivé négatif (in-X-able, touchable/intouchable par ex.). En plus de l'affichage des comptes vous donnerez le pourcentage d'adjectifs en -able pour lesquels le dérivé négatif est plus fréquent (utilisez la colonne '7_freqlemfilms2).
+    - Codin Game : [Racing duals](https://www.codingame.com/ide/puzzle/horse-racing-duals)
+
+### 2018-10-17 (salle Les Salons)
+### 2018-10-24 (salle Les Salons)
+### 2018-11-07 (salle Les Salons)
 ### 2018-11-14
 ### 2018-11-21
-### 2018-11-28
-### 2018-12-05
+### 2018-11-28 (salle Les Salons)
+### 2018-12-05 (salle Les Salons)
 ### 2018-12-12
-### 2018-12-19
+### 2018-12-19 (salle Les Salons)
 
 # Outils
 
