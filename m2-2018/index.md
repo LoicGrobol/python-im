@@ -28,13 +28,13 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
     ```bash
     jupyter notebook chifoumi.ipynb
     ```
-  - Exos : Chifoumi, Devinette, [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)
+  - Exos : Chifoumi, Devinette ([correction](../exos/guess.py)), [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) ([correction](../exos/thor.py))
 
 ### 2018-09-26 : Précisions, fichiers et chaînes
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-2.ipynb)
   - [Notebook dictionnaire-rimes](../dico-rimes.ipynb)
-  - Exos : [temperatures](https://www.codingame.com/training/easy/temperatures)
+  - Exos : [temperatures](https://www.codingame.com/training/easy/temperatures) ([correction](../exos/temperatures.py))
 
 ### 2018-10-03 : Structures de données
 
