@@ -42,10 +42,10 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Notebook vocabulaire-commun](../voc-commun.ipynb) : [les petits bourgeois](../balzac_petits-bourgeois.txt), [le ventre de Paris](../zola_ventre-de-paris.txt)
   - **Exos**
     - vocabulaire commun (à terminer),
-    - À partir du fichier tsv [sem_Ef9POe.conll](../sem_Ef9POe.conll)
+    - À partir du fichier tsv [sem_Ef9POe.conll](../sem_Ef9POe.conll) ([correction](../exos/exo-conll.py))
         1. pour chaque POS listez les types classés par ordre d'occurrence décroissante,
         2. pour chaque type de chunk indiquez les longueurs min et max (en nb de mots).
-    - [MIME type](https://www.codingame.com/training/easy/mime-type)
+    - [MIME type](https://www.codingame.com/training/easy/mime-type) ([correction](../exos/mime.py))
 
 ### 2018-10-10
 ### 2018-10-17
