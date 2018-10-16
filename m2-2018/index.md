@@ -60,6 +60,12 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
     - Codin Game : [Racing duals](https://www.codingame.com/ide/puzzle/horse-racing-duals)
 
 ### 2018-10-17 (salle Les Salons)
+
+  - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-5.ipynb)
+  - Exos :
+    - [Scrabble](https://www.codingame.com/training/medium/scrabble)
+    - [Python challenge 1](http://www.pythonchallenge.com/pc/def/map.html) (utiliser translate et maketrans)
+
 ### 2018-10-24 (salle Les Salons)
 ### 2018-11-07 (salle Les Salons)
 ### 2018-11-14
