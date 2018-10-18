@@ -54,10 +54,10 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Notebook multipos](../multipos.ipynb)
   - **Exos**
     - multipos (à terminer),
-    - Le suffixe `-able` (ou `-ible` ou `-uble`) est utilisé pour former des adjectifs à partir des verbes. Vous travaillerez avec les données de [lexique3.81](http://lexique.org/telLexique.php).
+    - Lexique ([correction](../exos/lexique-able.py)): le suffixe `-able` (ou `-ible` ou `-uble`) est utilisé pour former des adjectifs à partir des verbes. Vous travaillerez avec les données de [lexique3.81](http://lexique.org/telLexique.php).
         1. Pour chaque verbe du premier groupe (utilisez le lemme) vous vérifierez s'il existe un adjectif en -able. Vous donnerez les décomptes en résultat (combien de verbes avec adjectif -able, combien sans)
         2. Pour chaque adjectif en -able vous vérifierez s'il existe un dérivé négatif (in-X-able, touchable/intouchable par ex.). En plus de l'affichage des comptes vous donnerez le pourcentage d'adjectifs en -able pour lesquels le dérivé négatif est plus fréquent (utilisez la colonne '7_freqlemfilms2).
-    - Codin Game : [Racing duals](https://www.codingame.com/ide/puzzle/horse-racing-duals)
+    - Codin Game : [Racing duals](https://www.codingame.com/ide/puzzle/horse-racing-duals) ([correction](../exos/racing.py))
 
 ### 2018-10-17 (salle Les Salons)
 
