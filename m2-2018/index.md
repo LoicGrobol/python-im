@@ -63,7 +63,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-5.ipynb)
   - Exos :
-    - [Scrabble](https://www.codingame.com/training/medium/scrabble)
+    - [Scrabble](https://www.codingame.com/training/medium/scrabble) ([correction](../exos/scrabble.py))
     - [Python challenge 1](http://www.pythonchallenge.com/pc/def/map.html) (utiliser translate et maketrans)
 
 ### 2018-10-24 (salle Les Salons)
