@@ -67,7 +67,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
     - [Python challenge 1](http://www.pythonchallenge.com/pc/def/map.html) (utiliser translate et maketrans)
 
 ### 2018-10-24 (salle Les Salons)
-  - [Notebook CoNLL-U](../conllu_parse.ipynb) avec [fr_sequoia-ud-test.conllu](../fr_sequoia-ud-test.conllu)
+  - [Notebook CoNLL-U](../conllu_parse.ipynb) avec [fr_sequoia-ud-test.conllu](../fr_sequoia-ud-test.conllu) ([correction de la partie 1](../exos/conllu_crade.py))
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-6.ipynb)
   - Exos :
     - [Shadow of the knight](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
