@@ -71,7 +71,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=python-6.ipynb)
   - Exos :
     - [Shadow of the knight](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
-    - Finir le notebook CoNLL-U]
+    - Finir le notebook CoNLL-U
 
 ### 2018-11-07 (salle Les Salons)
 ### 2018-11-14
