@@ -25,7 +25,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Notebook : pierre-feuilles-ciseaux](../chifoumi.ipynb) :
     Télécharger le fichier .ipynb et dans le même dossier taper la commande
     ```bash
-    jupyter notebook chifoumi.ipynb
+    python3 -m jupyter notebook chifoumi.ipynb
     ```
   - Exos : Chifoumi, Devinette ([correction](../exos/guess.py)), [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) ([correction](../exos/thor.py))
 
