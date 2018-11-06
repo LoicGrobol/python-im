@@ -73,6 +73,8 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
     - Finir le notebook CoNLL-U
 
 ### 2018-11-07 (salle Les Salons)
+  - [Examen](exam.md)
+
 ### 2018-11-14
 ### 2018-11-21
 ### 2018-11-28 (salle Les Salons)
