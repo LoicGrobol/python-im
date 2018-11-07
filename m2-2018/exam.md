@@ -21,7 +21,7 @@ Ce script sera à envoyer aux deux adresses <loic.grobol@gmail.com> et <yoa.dupo
   3. Parmis les noms présents dans ce fichier, combien y a-t-il de noms composés ? On considère un nom comme composé s'il contient un trait d'union ou une espace.
   4. Parmis les noms présents dans ce fichier, combien de noms commencent et terminent par la même lettre ?
 
-## 1. À partir du fichier `nom2008dep_txt.txt`
+## 2. À partir du fichier `nom2008dep_txt.txt`
 
   1. Quel est le nom pour lequel le plus de naissances ont été relevées sur la période 1991–2000
     1. En Bretagne
