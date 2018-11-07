@@ -25,7 +25,7 @@ Le code *doit* être commenté. Des tests ce serait bien. **Évitez les notebook
   - Écrivez ! Tenez un carnet : vos questions, un compte-rendu de vos discussions, les problèmes rencontrés, tout est bon à prendre et cela vous aidera à rédiger la documentation finale.
 
   - **Données géo-localisées**
-Il existe beaucoup de choses pour travailler avec des données géo-localisées. Allez voir en vrac : [Geo-JSON](http://geojson.org/), [uMap](http://umap.openstreetmap.fr/fr/) pour créer facilement des cartes en utilisant les fonds de carte d'OpenStreetMap, [leaflet](http://leafletjs.com/) une lib JS pour les cartes interactives, [overpass turbo](http://overpass-turbo.eu/) pour interroger facilement les données d'OpenStreetMap (il y a une [api !](http://www.overpass-api.de/)
+Il existe beaucoup de choses pour travailler avec des données géo-localisées. Allez voir en vrac : [Geo-JSON](http://geojson.org/), [uMap](http://umap.openstreetmap.fr/fr/) pour créer facilement des cartes en utilisant les fonds de carte d'OpenStreetMap, [leaflet](http://leafletjs.com/) une lib JS pour les cartes interactives, [overpass turbo](http://overpass-turbo.eu/) pour interroger facilement les données d'OpenStreetMap (il y a une [api !](http://www.overpass-api.de/)).
 
   - **Ressources linguistiques**
   N'hésitez pas à aller fouiller dans [Ortolang](https://www.ortolang.fr/) ou [Clarin](https://lindat.mff.cuni.cz/repository/xmlui/) des ressources linguistiques exploitables librement et facilement. Vous pouvez aussi aller voir du côté de l'API twitter pour récupérer des données (qui ne sont pas nécessairement uniquement linguistiques)
@@ -34,7 +34,7 @@ Il existe beaucoup de choses pour travailler avec des données géo-localisées.
   Quelques sources : [Paris Open Data](https://opendata.paris.fr), [data.gouv.fr](https://data.gouv.fr), [Google dataset search](https://toolbox.google.com/datasetsearch)
 
   - **Web avec Python**
-Bye bye CGI. Utilisez un framework : [Flask](http://flask.pocoo.org/docs/0.11/), [Bottle](http://bottlepy.org/docs/dev/), [Tornado](http://tornado.readthedocs.io/en/stable/), [Django](https://www.djangoproject.com/) si vous utilisez une BD relationnelle.   J'ai une préférence pour Flask mais vous êtes libres d'en choisir un autre si le cœur vous en dit.
+Bye bye CGI. Utilisez un framework : [Flask](http://flask.pocoo.org/), [Bottle](http://bottlepy.org), [Tornado](http://tornado.readthedocs.io/), [Django](https://www.djangoproject.com/) si vous utilisez une BD relationnelle.   J'ai une préférence pour Flask mais vous êtes libres d'en choisir un autre si le cœur vous en dit.
 
 ## Sujets
 Au choix, orienté traitement de données ou TAL. Il serait bon d'exploiter au moins une source de données (corpus, ressource linguistique, base de données…). N'hésitez pas à choisir un sujet en lien avec d'autres cours ou projets et des domaines pour lesquels vous avez un intérêt particulier ou des compétences particulières.
