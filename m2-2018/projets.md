@@ -14,7 +14,7 @@ Le rendu devra comporter :
    * Les résultats (fichiers output, visualisations, ...) et une discussion sur ces résultats (ce que vous auriez aimé faire et ce que vous avez pu faire par exemple)
 
 
-  On attend de la documentation technique, pas une dissertation. Elle pourra prendre le format d'un ou plusieurs fichiers, d'un site web, d'un notebook de démonstration, à votre convenance.
+  On attend de la documentation technique, pas une dissertation. Elle pourra prendre la format d'un ou plusieurs fichiers, d'un site web, d'un notebook de démonstration, à votre convenance
 
   2. le code Python et les codes annexes (JS par ex.) que vous avez produit.
 Le code *doit* être commenté. Des tests ce serait bien. **Évitez les notebooks**, préférez les interfaces en ligne de commande ou web (ou graphiques si vous êtes très motivé⋅e⋅s)
@@ -31,12 +31,12 @@ Il existe beaucoup de choses pour travailler avec des données géo-localisées.
   N'hésitez pas à aller fouiller dans [Ortolang](https://www.ortolang.fr/) ou [Clarin](https://lindat.mff.cuni.cz/repository/xmlui/) des ressources linguistiques exploitables librement et facilement. Vous pouvez aussi aller voir du côté de l'API twitter pour récupérer des données (qui ne sont pas nécessairement uniquement linguistiques)
 
   - **Open Data**
-  Quelques sources : [Paris Open Data](https://opendata.paris.fr), <data.gouv.fr>, [Google dataset search](https://toolbox.google.com/datasetsearch), [INSEE](https://insee.fr/fr/accueil), [Légifrance](https://www.legifrance.gouv.fr)
+  Quelques sources : [Paris Open Data](https://opendata.paris.fr), [data.gouv.fr](https://data.gouv.fr), [Google dataset search](https://toolbox.google.com/datasetsearch)
 
   - **Web avec Python**
-Bye bye CGI. Utilisez un framework : [Flash](http://flask.pocoo.org/docs/0.11/), [Bottle](http://bottlepy.org/docs/dev/), [Tornado](http://tornado.readthedocs.io/en/stable/), [Django](https://www.djangoproject.com/) si vous utilisez une BD relationnelle.   J'ai une préférence pour Flask mais vous êtes libres d'en choisir un autre si le cœur vous en dit.
+Bye bye CGI. Utilisez un framework : [Flask](http://flask.pocoo.org/docs/0.11/), [Bottle](http://bottlepy.org/docs/dev/), [Tornado](http://tornado.readthedocs.io/en/stable/), [Django](https://www.djangoproject.com/) si vous utilisez une BD relationnelle.   J'ai une préférence pour Flask mais vous êtes libres d'en choisir un autre si le cœur vous en dit.
 
-## Thématiques des sujets
+## Sujets
 Au choix, orienté traitement de données ou TAL. Il serait bon d'exploiter au moins une source de données (corpus, ressource linguistique, base de données…). N'hésitez pas à choisir un sujet en lien avec d'autres cours ou projets et des domaines pour lesquels vous avez un intérêt particulier ou des compétences particulières.
 
 ### Accès aux données
@@ -61,4 +61,4 @@ Créer un lexique intentionnel que l'on pourra enrichir ("règles" pour créer d
 Créer un POS tagger basé sur le LeFFF.
 
 ### Classifieur 1
-Créer un classifieur de documents pour retrouver les [catégories thématiques](https://fr.wikinews.org/wiki/Page:Sommaire) d'articles wikinews. Pour un article, on veut extraire son contenu textuel et deviner sa catégorie depuis son contenu.
+Créer un classifieur de documents pour retrouver les [catégories thématiques](https://fr.wikinews.org/wiki/Page:Sommaire) d'articles wikinews.
