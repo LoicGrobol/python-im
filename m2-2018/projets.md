@@ -11,8 +11,7 @@ Le rendu devra comporter :
    * Les données (origine, format, statut juridique) et les traitements opérés sur celles-ci
    * La méthodologie (comment vous vous êtes répartis le travail, comment vous avez identifié les problèmes et les avez résolus, différentes étapes du projet, ...)
    * L'implémentation ou les implémentations (modélisation le cas échéant, modules et/ou API utilisés, différents langages le cas échéant)
-   * Les résultats (fichiers output, visualisations, ...) et une discussion sur ces résultats (ce que vous auriez aimé faire et ce que vous avez pu faire par exemple)
-
+   * Les résultats (fichiers output, visualisations, ...) et une discussion sur ces résultats (ce que vous auriez aimé faire et ce que vous avez pu faire par exemple)  
     On attend de la documentation technique, pas une dissertation. Elle pourra prendre la format d'un ou plusieurs fichiers, d'un site web, d'un notebook de démonstration, à votre convenance
 
   2. le code Python et les codes annexes (JS par ex.) que vous avez produit.
