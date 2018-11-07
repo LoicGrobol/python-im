@@ -16,10 +16,8 @@ Ce script sera à envoyer aux deux adresses <loic.grobol@gmail.com> et <yoa.dupo
 
   1. Quel est le nom pour lequel le plus de naissances ont été relevées sur la période 1991–2000 ?
   2. Quel est le nom qui a connu la plus forte augmentation des naissances entre les périodes 1981—1990 et 1991–2000 ?
-
     1. En variation absolue (nombre de naissances)
     2. En variation relative (on ne considèrera que les noms pour lesquels il y a eu au moins une naissance sur la période 1981—1990)
-
   3. Parmis les noms présents dans ce fichier, combien y a-t-il de noms composés ? On considère un nom comme composé s'il contient un trait d'union ou une espace.
   4. Parmis les noms présents dans ce fichier, combien de noms commencent et terminent par la même lettre ?
 
