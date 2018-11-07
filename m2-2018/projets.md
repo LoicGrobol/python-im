@@ -13,8 +13,7 @@ Le rendu devra comporter :
    * L'implémentation ou les implémentations (modélisation le cas échéant, modules et/ou API utilisés, différents langages le cas échéant)
    * Les résultats (fichiers output, visualisations, ...) et une discussion sur ces résultats (ce que vous auriez aimé faire et ce que vous avez pu faire par exemple)
 
-
-  On attend de la documentation technique, pas une dissertation. Elle pourra prendre la format d'un ou plusieurs fichiers, d'un site web, d'un notebook de démonstration, à votre convenance
+    On attend de la documentation technique, pas une dissertation. Elle pourra prendre la format d'un ou plusieurs fichiers, d'un site web, d'un notebook de démonstration, à votre convenance
 
   2. le code Python et les codes annexes (JS par ex.) que vous avez produit.
 Le code *doit* être commenté. Des tests ce serait bien. **Évitez les notebooks**, préférez les interfaces en ligne de commande ou web (ou graphiques si vous êtes très motivé⋅e⋅s)
