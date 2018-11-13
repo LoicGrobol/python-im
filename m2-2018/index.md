@@ -77,6 +77,11 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Examen](exam.md)
 
 ### 2018-11-14
+  - [Notebook parseurs](../parseurs.ipynb)
+  - Exos :
+    - exercices 1 et 2 du notebook parseurs
+    - [la bataille](https://www.codingame.com/training/medium/winamax-battle)
+
 ### 2018-11-21
 ### 2018-11-28 (salle Les Salons)
 ### 2018-12-05 (salle Les Salons)
