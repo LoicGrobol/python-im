@@ -77,7 +77,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Examen](exam.md)
 
 ### 2018-11-14
-  - [Notebook parseurs](../parseurs.ipynb) ([la lettre de jopéshine](../josephine-1-150119.xml))
+  - [Notebook parseurs](../parseurs.ipynb) ([la lettre de jopéshine](../josephine-1-150119.xml)) ([le notebook complété](../parseurs-complet.ipynb))
   - Exos :
     - exercices 1 et 2 du notebook parseurs
     - [la bataille](https://www.codingame.com/training/medium/winamax-battle)
