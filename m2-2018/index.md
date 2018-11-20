@@ -83,6 +83,8 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
     - [la bataille](https://www.codingame.com/training/medium/winamax-battle)
 
 ### 2018-11-21
+  - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=modules.ipynb)
+
 ### 2018-11-28 (salle Les Salons)
 ### 2018-12-05 (salle Les Salons)
 ### 2018-12-12
