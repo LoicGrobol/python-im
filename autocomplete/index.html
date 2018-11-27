@@ -1,21 +1,28 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>autocomplete demo</title>
-  <script src="http://code.jquery.com/jquery-1.12.4.js"></script>
-  <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-</head>
-<body>
- 
-<label for="autocomplete">Select a programming language: </label>
-<input id="autocomplete">
- 
-<script>
-$( "#autocomplete" ).autocomplete({
-  source: [ "c++", "java", "php", "coldfusion", "javascript", "asp", "ruby" ]
-});
-</script>
- 
-</body>
+    <head>
+        <meta charset="utf-8">
+        <title>autocomplete demo</title>
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+        <script src="http://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    </head>
+
+
+    <body>
+        <label for="autocomplete">Select a programming language: </label>
+        <input id="autocomplete">
+        
+        <script type="text/javascript">
+            $(function() {
+                $("#autocomplete").autocomplete({
+                    source: "http://127.0.0.1:5000/autocomplete",
+                    // source attend une url.
+                    // on utilise ici "127.0.0.1:5000" (localhost et port 5000, les paramètres par défaut de Flask)
+                    // et la route "autocomplete" (qu'on renseigne dans Flask avec le décorateur @app.route)
+                    minLength: 2 // on attend d'avoir deux caractères au minimum
+                });
+            })
+        </script>
+    </body>
 </html>
