@@ -86,6 +86,9 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=modules.ipynb)
 
 ### 2018-11-28 (salle Les Salons)
+  - [Notebooks autocomplete](../autocomplete/autocomplete1.ipynb)
+  - données : [index.html](../autocomplete/index.html) et [serve.py](../autocomplete/serve.py)
+
 ### 2018-12-05 (salle Les Salons)
 ### 2018-12-12
 ### 2018-12-19 (salle Les Salons)
