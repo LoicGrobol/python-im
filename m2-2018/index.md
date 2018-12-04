@@ -90,6 +90,9 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
   - données : [index.html](../autocomplete/index.html) et [serve.py](../autocomplete/serve.py)
 
 ### 2018-12-05 (salle Les Salons)
+  - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=modele_vectoriel.ipynb)
+  - [Mini-corpus imdb](../imdb_smol.tar.gz)
+
 ### 2018-12-12
 ### 2018-12-19 (salle Les Salons)
 
