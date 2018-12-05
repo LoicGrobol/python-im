@@ -91,6 +91,7 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 
 ### 2018-12-05 (salle Les Salons)
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=modele_vectoriel.ipynb)
+    - [Correction exercice 1](../exos/imbow.py)
   - [Mini-corpus imdb](../imdb_smol.tar.gz)
 
 ### 2018-12-12
