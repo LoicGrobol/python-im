@@ -92,10 +92,17 @@ Tous les supports sont sur [github](https://github.com/loicgrobol/python-im).
 ### 2018-12-05 (salle Les Salons)
   - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=modele_vectoriel.ipynb)
     - [Correction exercice 1](../exos/imbow.py)
+    - [Correction exercice 2](../exos/imbow2.py)
+    - [Correction exercice 3](../exos/tfidf.py)
   - [Mini-corpus imdb](../data/imdb/imdb_smol.tar.gz)
 
 ### 2018-12-12
+  - [Slides](https://mybinder.org/v2/gh/loicgrobol/python-im/master?filepath=visualisation.ipynb)
+
+
 ### 2018-12-19 (salle Les Salons)
+  - [Version skorch](../skrch.py)
+  - [Tensorflow playground](https://playground.tensorflow.org)
 
 # Outils
 

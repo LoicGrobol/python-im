@@ -49,6 +49,5 @@ elif sys.argv[2] == "--tfidf":
     tfidf = tf * idf
     l = 0
     for n in sorted(subcorpora):
-        breakpoint()
-        np.savetxt(p / f"{n}.tsv", tfidf[l : len(subcorpora[n]), ...], delimiter="\t")
+        np.savetxt(p / f"{n}.tsv", tfidf[l : l+len(subcorpora[n]), ...], delimiter="\t")
         l += len(subcorpora[n])
